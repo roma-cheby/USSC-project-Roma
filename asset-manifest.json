@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/USSC-project-Roma/static/css/main.69d6c168.css",
+    "main.js": "/USSC-project-Roma/static/js/main.58484e50.js",
+    "static/media/sample_photo1.jpg": "/USSC-project-Roma/static/media/sample_photo1.4a0d7d59a5440104de24.jpg",
+    "static/media/sample_photo2.jpg": "/USSC-project-Roma/static/media/sample_photo2.7e73e683ab348995c6bc.jpg",
+    "static/media/OpenSans-Italic-VariableFont_wdth_wght.ttf": "/USSC-project-Roma/static/media/OpenSans-Italic-VariableFont_wdth_wght.f72efa639bb45d29e62f.ttf",
+    "static/media/OpenSans-VariableFont_wdth_wght.ttf": "/USSC-project-Roma/static/media/OpenSans-VariableFont_wdth_wght.ceb05254cedfa895b512.ttf",
+    "static/media/u_summer_school_logo.png": "/USSC-project-Roma/static/media/u_summer_school_logo.d293cb2622a89828d445.png",
+    "static/media/Oswald-VariableFont_wght.ttf": "/USSC-project-Roma/static/media/Oswald-VariableFont_wght.46d7853f0185f6bf0c93.ttf",
+    "static/media/udv_logo.png": "/USSC-project-Roma/static/media/udv_logo.021082da998c637fc098.png",
+    "static/media/ussc_logo.svg": "/USSC-project-Roma/static/media/ussc_logo.ca564e9257b7ae8462be9d8904e949b2.svg",
+    "static/media/ok_icon.svg": "/USSC-project-Roma/static/media/ok_icon.c28ef9edfccb3f416e75cd84f9b58e3f.svg",
+    "static/media/bag_icon.svg": "/USSC-project-Roma/static/media/bag_icon.aa47d9a5c96d655f0b2e660618c99379.svg",
+    "static/media/clock_icon.svg": "/USSC-project-Roma/static/media/clock_icon.e08778dda1a1b8963973025586ef98c4.svg",
+    "index.html": "/USSC-project-Roma/index.html",
+    "static/media/roleCross.svg": "/USSC-project-Roma/static/media/roleCross.eeea0f6dc2038f03b8512bf657706968.svg",
+    "static/media/plus.svg": "/USSC-project-Roma/static/media/plus.efbdfcce8a1c0e78b61fa434b62a8a5a.svg",
+    "static/media/checkmark_icon.svg": "/USSC-project-Roma/static/media/checkmark_icon.a1e16d30ded5ecbec6d4e61ad2908251.svg",
+    "static/media/radioOn.svg": "/USSC-project-Roma/static/media/radioOn.9511d27d886f1a83cadf.svg",
+    "static/media/cross.svg": "/USSC-project-Roma/static/media/cross.f3ddbdb58752ed717773f202f4bee154.svg",
+    "static/media/left_arrow.svg": "/USSC-project-Roma/static/media/left_arrow.9f564edb111dba31e159f349811b4f5d.svg",
+    "static/media/roleAdd.svg": "/USSC-project-Roma/static/media/roleAdd.731635f58917873f480be8a8ac07fc5d.svg",
+    "static/media/checkbox.svg": "/USSC-project-Roma/static/media/checkbox.9bcbe6ce5cfb050e56d9.svg",
+    "static/media/radioOff.svg": "/USSC-project-Roma/static/media/radioOff.6ecd8b662b59c7f95bfd.svg",
+    "static/media/circle.svg": "/USSC-project-Roma/static/media/circle.83562fb0a2bd7e7d443f22b74cf6aec6.svg",
+    "static/media/circle_big.svg": "/USSC-project-Roma/static/media/circle_big.2f96ee170138d9cffff179f2265c41ad.svg",
+    "static/media/list_circle.svg": "/USSC-project-Roma/static/media/list_circle.17f5ac68ca1728c44b43d98882fb89c8.svg",
+    "main.69d6c168.css.map": "/USSC-project-Roma/static/css/main.69d6c168.css.map",
+    "main.58484e50.js.map": "/USSC-project-Roma/static/js/main.58484e50.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69d6c168.css",
+    "static/js/main.58484e50.js"
+  ]
+}
