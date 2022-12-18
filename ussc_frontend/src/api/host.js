@@ -1,1 +1,1 @@
-export const HOST = 'https://localhost:7296';
+export const HOST = 'https://roma-cheby.github.io/USSC-project-Roma';
