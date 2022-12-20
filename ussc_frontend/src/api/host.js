@@ -1,1 +1,1 @@
-export const HOST = 'https://usscprac.netlify.app';
+export const HOST = 'https://aquamarine-melomakarona-b3624c.netlify.app/';
